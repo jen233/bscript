@@ -1,2 +1,3 @@
 echo 'JENKINS'
 date
+cal

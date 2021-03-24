@@ -1,3 +1,0 @@
-echo 'JENKINS'
-date
-cal
